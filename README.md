@@ -1,25 +1,61 @@
 # Horiseon
+![Screenshot of Horiseon page top](./screenshots/pagetop-screenshot.jpg)
+![Screenshot of Horiseon page content](./screenshots/content-screenshot.jpg)
+
+---
 
 ## Purpose
 A website for advertising services offered by Horiseon marketing agency.
+
+---
+
+### Table of Contents
+You're sections headers will be used to reference location of destination.
+
+- [Built With](#built-with)
+- [Website](#website)
+- [Contribution](#contribution)
+    - [Author Contact Info](#author-contact-info)
+- [Changes From Original Version](#changes-from-original-version)
+    - [Added](#added)
+    - [Changed](#changed)
+    - [Removed](#removed)
+    - [Fixed](#fixed)
+
+[Back to Top](#Horiseon)
+
+---
 
 ## Built With
 HTML
 CSS
 
+[Back to Contents](#table-of-contents)
+
+---
+
 ## Website
 https://craig5117.github.io/Horiseon/
+
+[Back to Contents](#table-of-contents)
+
+---
 
 ## Contribution
 Original version supplied by Horiseon marketing agency. Original contributors unknown.
 
 This version refactored and published by **Craig Bennett**.
 
-### Contact info for Craig Bennett:
+
+### Author Contact Info:
 
 Facebook: https://www.facebook.com/craig.bennett.5817/
 
 LinkedIn: https://www.linkedin.com/in/craig-bennett-852a571b4/
+
+[Back to Contents](#table-of-contents)
+
+---
 
 ## Changes From Original Version
 2020-10-04
@@ -46,3 +82,9 @@ LinkedIn: https://www.linkedin.com/in/craig-bennett-852a571b4/
 ### Removed
 - Closing img tag from the image found under Cost Management. This tag was no longer necessary and removing it improves page loading time.
 - Unused classes under Content and Benefits sections (made obsolete by the consolidation of the css code).
+
+### Fixed
+- Search Engine Optimization link.
+- Page loading very slowly.
+
+[Back to Contents](#table-of-contents)
