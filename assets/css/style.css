@@ -69,16 +69,6 @@ header nav ul li {
     /*End Hero Styles */
 
 /*Start Content Styles */    
-.float-left {
-    float: left;
-    margin-right: 35px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 35px;
-}
-
 .content {
     width: 1140px;
     display: inline-block;
@@ -93,6 +83,16 @@ header nav ul li {
     background-color: #0072bb;
     color: #ffffff;
     overflow: auto;
+}
+
+.float-left {
+    float: left;
+    margin-right: 35px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 35px;
 }
 
 .content div {
