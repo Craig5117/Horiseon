@@ -49,6 +49,8 @@ This version refactored and published by **Craig Bennett**.
 
 ### Author Contact Info:
 
+GitHub: https://github.com/Craig5117
+
 Facebook: https://www.facebook.com/craig.bennett.5817/
 
 LinkedIn: https://www.linkedin.com/in/craig-bennett-852a571b4/
