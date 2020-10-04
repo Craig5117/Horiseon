@@ -114,7 +114,7 @@ header nav ul li {
 /*Start Benefits Styles */    
 .benefits {
     margin-right: 25px;
-    padding: 30px;
+    padding: 22px 30px 22px 30px;
     clear: both;
     float: right;
     width: 305px;
@@ -129,17 +129,16 @@ header nav ul li {
 }
 
 .benefits h3 {
-    margin-top: 5px;
     margin-bottom: 0;
     text-align: center;
-    font-size: 30px;
-    font-weight: normal;
+    font-size: 24px;
+    font-weight: bold;
 }
 
 .benefits img {
     display: block;
     margin: 0 auto 12px auto;
-    max-width: 225px;
+    max-width: 195px;
 }
     /*End Benefits Styles */
 
