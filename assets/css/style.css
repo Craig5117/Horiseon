@@ -8,6 +8,7 @@
 /*Start General styles */
 body {
     background-color: #d9dcd6;
+    min-width: 1520px;
 }
 
 a {
