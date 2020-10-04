@@ -61,7 +61,7 @@ header nav ul li {
 .hero {
     height: 1050px;
     width: 100%;
-    max-width: 1520px;
+    max-height: 1070;
     margin-bottom: 30px;
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
