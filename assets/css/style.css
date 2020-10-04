@@ -8,7 +8,7 @@
 /*Start General styles */
 body {
     background-color: #d9dcd6;
-    min-width: 1520px;
+    min-width: 1515px;
 }
 
 a {
@@ -84,13 +84,11 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
     text-align: left;
-    /*min-width: min-content; This helped more but not 100% */
 }
 
 .content article {
     margin-bottom: 25px;
     padding: 50px;
-    /*max height: 275px; this helped but did not fix*/
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
