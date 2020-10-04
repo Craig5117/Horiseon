@@ -9,6 +9,7 @@
 body {
     background-color: #d9dcd6;
     min-width: 1515px;
+    max-width: 1520px;
 }
 
 a {
