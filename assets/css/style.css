@@ -9,7 +9,6 @@
 body {
     background-color: #d9dcd6;
     min-width: 1515px;
-    max-width: 1520px;
 }
 
 a {
@@ -62,6 +61,7 @@ header nav ul li {
 .hero {
     height: 1050px;
     width: 100%;
+    max-width: 1520px;
     margin-bottom: 30px;
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
