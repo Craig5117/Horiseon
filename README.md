@@ -41,7 +41,7 @@ LinkedIn: https://www.linkedin.com/in/craig-bennett-852a571b4/
 - Consolidated css for Content section (the .content div, h2, and img selectors previously were represented by 9 different selectors, but this has been reduced to 3). This reduces the code size for style.css and improves page load time.
 - Consolidated css for Benefits section (the .benefits div, h3, and img selectors previously were represented by 9 different selectors, but this has been reduced to 3). This reduces the code size for style.css and improves page load time.
 - Resized font, padding, and marginis for text, images, and sections to better fit the client's provided mock-up. 
-- Optimized file size for images to improve page loading time. The 3 images under Content were scaled down to double the display size on the page. The background image for the header was scaled down to 
+- Optimized file size for images to improve page loading time. The 3 images under Content were scaled down to double the display size on the page. The background image for the header was scaled down to HD resolution. These images were also compressed and the current file size is now less than 3% of the original, without any noticeable loss in quality. The result is that the page loads much faster now. 
 
 ### Removed
 - Closing img tag from the image found under Cost Management. This tag was no longer necessary and removing it improves page loading time.
